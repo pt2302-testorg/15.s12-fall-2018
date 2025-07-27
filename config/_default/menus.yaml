@@ -1,7 +1,7 @@
 leftnav:
 - identifier: 6290c49e-7761-d974-b8da-6883d81eb2c0
-  name: Syllabus2
-  pageRef: /pages/syllabus2
+  name: Course Questions
+  pageRef: /pages/course-questions
   weight: 10
 - identifier: f608fac4-4250-69ae-fa63-3bf364414a7a
   name: Calendar
