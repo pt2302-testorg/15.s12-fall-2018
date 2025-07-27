@@ -4,7 +4,7 @@ description: 'This section contains information about the logistics of the cours
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
-title: Course Questions
+title: Syllabus
 uid: 6290c49e-7761-d974-b8da-6883d81eb2c0
 ---
 Course Meeting Times
