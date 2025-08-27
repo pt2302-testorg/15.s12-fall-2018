@@ -1,12 +1,11 @@
 ---
-backup_url: ''
-backup_url_status_code: null
 content_type: external-resource
 external_url: https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 has_external_license_warning: true
-is_broken: false
 license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: unchecked
 title: The Meaning of Decentralization
 uid: cfe926da-407d-47ba-8560-417296e31ea2
-url_status_code: 200
+url_status_code: 429
+wayback_url: ''
 ---
